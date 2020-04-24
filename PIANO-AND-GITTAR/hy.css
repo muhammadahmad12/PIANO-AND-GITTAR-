@@ -1,0 +1,12 @@
+#byt,
+#byta {
+	background: #000;
+	color: white;
+	outline: none;
+	transform: scale(1.5);
+}
+#byt:hover,
+#byta :hover {
+	transform: scale(1.8) rotatey(370deg);
+	transition-duration: 6s;
+}
